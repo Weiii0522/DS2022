@@ -12,3 +12,6 @@
 
 
 ## Lab1-3 在你的Google Drive, 建立你的第一個Colab Notebook
+
+![image](https://user-images.githubusercontent.com/100504908/155870826-d21efee1-ec08-4008-9be0-6d2b4e5c63ca.png)
+
